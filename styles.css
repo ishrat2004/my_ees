@@ -59,7 +59,7 @@ nav ul li a:hover {
     display: flex;
     background-color: #0e0e0e; 
     position:fixed; 
-    height: 80px; 
+    height: 100px; 
     
 }
 /* Background Section */
@@ -207,7 +207,7 @@ body {
     .info{ 
         display: flex;  
         justify-content: space-evenly;
-
+        margin-top:50px;
     } 
     
     .first_info{ 
