@@ -128,9 +128,9 @@ body {
 }
 .all_features{ 
     display:flex; 
-    justify-content: space-between;
-    padding-left:250px; 
-    padding-right:250px; 
+    flex-wrap: wrap;
+    justify-content: center;
+    
 }
 .footer {
     display: flex;
